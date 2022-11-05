@@ -1,4 +1,4 @@
-# SZTU-Web_Linker
+# SZTU-Web-Linker
 ## 基于python的深技大校园网连接脚本
 ### requirement:selenium webdriver-manager (pip装最新的就行)
 ```
